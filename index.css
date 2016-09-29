@@ -1,0 +1,30 @@
+body{
+	font-family: "Marker Felt", "Arial", fantasy;
+	color: #000099;
+	font-size: 1.2em;
+	text-align: center;
+	background-color: #AEF2EE
+}
+
+h1 {
+	font-family: "Marker Felt", "Bauhaus 93", fantasy;
+	font-size: 4em;
+	text-align: center;
+	color: #2A58FC
+}
+
+h2 {
+	margin-top: 100px;
+}
+
+tr {
+	border: 1px solid #ffffff;
+	text-align: center;
+	background-color:#9FB6CD; 
+}
+
+th {
+	text-align: center;
+	color: #ffffff;
+	background-color: #003366;
+}
